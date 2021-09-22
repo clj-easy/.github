@@ -15,12 +15,3 @@ The name is inspired by [Simple made easy](https://youtu.be/SxdOUGdseq4) by Rich
 Hickey. As [knittedcastle.org](https://knittedcastle.org) was already taken, and
 simple has gotten the most attention within the Clojure community in the last
 decade or so, we decided to go with easy.
-
-# Contributors
-
-In alphabetical order:
-
-- [@borkdude](https://github.com/borkdude)
-- [@ericdallo](https://github.com/ericdallo)
-- [@lispyclouds](https://github.com/lispyclouds)
-- [@lread](https://github.com/lread)
