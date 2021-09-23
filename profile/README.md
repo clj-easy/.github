@@ -8,6 +8,7 @@ enough to be hosted in a separate organization like
 
 - [graal-docs](https://github.com/clj-easy/graal-docs)
 - [graal-build-time](https://github.com/clj-easy/graal-build-time)
+- [graal-config](https://github.com/clj-easy/graal-config)
 
 # The name
 
